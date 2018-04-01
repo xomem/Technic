@@ -1,0 +1,16 @@
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\MainMenu.g.cs
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\MainWindow.g.cs
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\App.g.cs
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic_MarkupCompile.cache
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic_MarkupCompile.lref
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\bin\Debug\Technic.exe.config
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\bin\Debug\Technic.exe
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\bin\Debug\Technic.pdb
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\MainMenu.baml
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\MainWindow.baml
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic.g.resources
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic.Properties.Resources.resources
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic.csproj.GenerateResource.Cache
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic.csproj.CoreCompileInputs.cache
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic.exe
+C:\Users\SOVAJJ\Dropbox\Technic\Technic\obj\Debug\Technic.pdb
